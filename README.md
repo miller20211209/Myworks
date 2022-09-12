@@ -6,3 +6,4 @@
 - 20220909-add Tensorflow 梯度下降法, one-hot encoding及 pre-train web ver.0.04 (改版本號)
 - 20220910-TensorFlow:新增 GPU_記憶體管理_張量運算, 自動微分, 簡單線性回歸, 簡單線性回歸_TF
           - PyTorch: 將檔案整理成, CNN, RNN 兩個資料夾
+- 20220912-Tensorflow-回歸-5種方法 v.0401
